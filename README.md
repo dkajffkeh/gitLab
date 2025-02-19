@@ -1,6 +1,5 @@
 Hello Git
 
-CTCL-002
 CTCL-003
 
 CTCL-0004
